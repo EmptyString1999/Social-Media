@@ -1,0 +1,57 @@
+ - What's the time frame I know you said as you can but I feel like I'm being a dick by taking this long so can I have a deadline for some results
+
+ - what is needed for a user to register e.g. username, name, email ... what
+     name in separate fields
+     Email
+     checkbox
+ - can you look for some colour ideas you like, just on other websites or on a colour swatches website like https://coolors.co/
+     IMG/color-swatches.png
+     One - background maybe?
+     two - idk just nice
+     three - clicked links?
+     four - idk just nice
+ - is the current design ok
+     a simple design, current one is ok for home page then do a blog
+ - what background, plane? pattern?
+
+ - do we want just like RPL so only plane front page with login then go to main or something else
+     privacy front page just login
+ - are we having ads?
+     - if so where are ads going?
+          front page & sidebar
+ - do we know anything about a webhost or domain names?
+
+ - name for the website?
+
+ - any clue what pages we need?
+     - what's going on the top navigation bar?
+     - what's going on the side navigation bar?
+- the writing for blogs what exactly do you want, as RPL has something but you said better ... define better
+     use http://www.nicedit.com/
+
+
+
+
+  HAZEL WANTS TIS
+<----------------->
+- email reset
+	- security question
+- reset account
+	- security question
+- change password
+	- security question
+- delete account
+	- security question
+	- when account is deleted keep for a few days
+
+- vanity URL
+
+	
+
+
+
+     https://imgur.com/#access_token=85c5fd1f4ad1e5a6b63817a024e3094b040aebab&expires_in=315360000&token_type=bearer&refresh_token=c0c91972de07ee3584196961f12ec29a6e790339&account_username=EMPTYSTRING&account_id=93025805
+
+     refresh token = c0c91972de07ee3584196961f12ec29a6e790339
+
+     access token = 85c5fd1f4ad1e5a6b63817a024e3094b040aebab
